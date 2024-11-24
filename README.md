@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/shubham97067199" target="blank"><img src="https://img.shields.io/twitter/follow/shubham97067199?logo=twitter&style=for-the-badge" alt="shubham97067199" /></a> </p>
 
-- 🌱 I’m currently learning **Full stack Java Development**
+- 🌱 I’m currently learning **Full stack Java Development**.
 
 - 👨‍💻 Sum of my notable projects : Online Vehicle Service Center Management System, Banking Application.
 
-- 💬 Ask me about **CoreJava ,SpringBoot,Servlet, JSP ,JDBC , Hibernate ,MySQL, HTML, CSS, JavaScript, Angular**
+- 💬 Ask me about **CoreJava ,SpringBoot,Servlet, JSP ,JDBC , Hibernate ,MySQL, HTML, CSS, JavaScript, Angular**.
 
-- 📫 How to reach me **shubhambobade1998@gmail.com**
+- 📫 How to reach me : **shubhambobade1998@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
