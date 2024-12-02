@@ -11,7 +11,7 @@
 
 - 👨‍💻 Sum of my notable projects : **Online Vehicle Service Center Management System, Banking Application, Organization Workflow.**
 
-- 💬 Ask me about **CoreJava ,SpringBoot,Servlet, JSP ,JDBC , Hibernate ,MySQL, HTML, CSS, JavaScript, Angular.**
+- 💬 Ask me about **CoreJava ,SpringBoot,Servlet, JSP ,JDBC , Hibernate, JPA,MySQL, HTML, CSS, JavaScript, Angular.**
 
 - 📫 How to reach me : **shubhambobade1998@gmail.com**
 
